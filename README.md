@@ -7,7 +7,7 @@ I'm a 3A Software Engineering student at the University of Waterloo.
 
 I'm currently heading to **Shopify** to work on Search and Index Serving. Before that, I worked at **Zynga** across infrastructure and game development, and at **Cineplex** on ad tech, data ingestion, and data visualization.
 
-I like working on problems involving low-level programming using **C++**, including: **data structure design, performance engineering, compilers, and search infrastructure**.
+I like working on problems where the best solution isn't obvious, especially in **C++ systems**: understanding the constraints, finding the bottlenecks, and figuring out how to make things simpler, faster, or more effective.
 
 ## Projects
 
