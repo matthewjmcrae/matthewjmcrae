@@ -30,4 +30,3 @@ A multithreaded C++ simulation and optimization engine I built to help answer co
 I'm into roller coaster design, competitive Yu-Gi-Oh!, and travel.
 
 More about me and what I'm working on at [matthewmcrae.io](https://matthewmcrae.io).
-move so text is on the left of the image instead of all pushed below
