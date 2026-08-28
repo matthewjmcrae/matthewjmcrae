@@ -1,7 +1,8 @@
 # Matthew McRae
 
-![Matthew McRae in Times Square](./timessqaure.png)
-
+<p align="center">
+  <img src="./timessquare.png" alt="Matthew McRae in Times Square" width="700">
+</p>
 I'm a 3A Software Engineering student at the University of Waterloo.
 
 I'm currently heading to **Shopify** to work on Search and Index Serving. Before that, I worked at **Zynga** across infrastructure and game development, and at **Cineplex** on ad tech, data ingestion, and data visualization.
