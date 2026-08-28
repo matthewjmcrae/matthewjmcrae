@@ -1,6 +1,6 @@
 # Matthew McRae
 
-![Hero image](timessquare.png)
+![Hero image](./timessquare.png)
 
 I'm a 3A Software Engineering student at the University of Waterloo.
 
