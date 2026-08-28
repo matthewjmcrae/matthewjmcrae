@@ -1,19 +1,38 @@
 # Matthew McRae
 
-<p align="center">
-  <img src="./timessqaure.png" alt="Matthew McRae in Times Square" width="300">
-</p>
-I'm a 3A Software Engineering student at the University of Waterloo.
+<table>
+  <tr>
+    <td valign="top">
+      <p>I'm a 3A Software Engineering student at the University of Waterloo.</p>
 
-I'm currently heading to **Shopify** to work on Search and Index Serving. Before that, I worked at **Zynga** across infrastructure and game development, and at **Cineplex** on ad tech, data ingestion, and data visualization.
+      <p>
+        I'm currently heading to <strong>Shopify</strong> to work on Search and Index Serving.
+        Before that, I worked at <strong>Zynga</strong> across infrastructure and game development,
+        and at <strong>Cineplex</strong> on ad tech, data ingestion, and data visualization.
+      </p>
 
-I like working on problems involving low-level programming using **C++**, including: **data structure design, performance engineering, compilers, and search infrastructure**.
+      <p>
+        I like working on problems involving low-level programming using <strong>C++</strong>,
+        including <strong>data structure design, performance engineering, compilers,
+        and search infrastructure</strong>.
+      </p>
+    </td>
+
+    <td valign="top">
+      <img
+        src="./timessqaure.png"
+        alt="Matthew McRae in Times Square"
+        width="300"
+      >
+    </td>
+  </tr>
+</table>
 
 ## Projects
 
 ### Noria
 
-A custom statically typed language with a compiler written in C++/
+A custom statically typed language with a compiler written in C++.
 
 ### Yu-Gi-Oh! Monte Carlo Simulator
 
