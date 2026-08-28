@@ -1,7 +1,7 @@
 # Matthew McRae
 
 <p align="center">
-  <img src="./timessqaure.png" alt="Matthew McRae in Times Square" width="700" height="300">
+  <img src="./timessqaure.png" alt="Matthew McRae in Times Square" width="700">
 </p>
 I'm a 3A Software Engineering student at the University of Waterloo.
 
