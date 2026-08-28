@@ -1,6 +1,6 @@
 # Matthew McRae
 
-![Matthew McRae in Times Square](./timessquare.png)
+![Matthew McRae in Times Square](./timessqaure.png)
 
 I'm a 3A Software Engineering student at the University of Waterloo.
 
