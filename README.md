@@ -1,8 +1,6 @@
 # Matthew McRae
 
-<p align="center">
-  <img src="timessquare.png" alt="Matthew McRae in Times Square" width="100%">
-</p>
+![Matthew McRae in Times Square](./timessquare.png)
 
 I'm a 3A Software Engineering student at the University of Waterloo.
 
