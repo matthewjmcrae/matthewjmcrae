@@ -13,7 +13,7 @@ I like working on problems involving low-level programming using **C++**, includ
 
 ### Noria
 
-A custom statically typed language with a compiler written in C++/
+A custom statically typed language with a compiler written in C++
 
 ### Yu-Gi-Oh! Monte Carlo Simulator
 
