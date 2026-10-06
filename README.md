@@ -1,8 +1,5 @@
 # Matthew McRae
 
-<p align="center">
-  <img src="./timessqaure.png" alt="Matthew McRae in Times Square" width="300">
-</p>
 I'm a 3A Software Engineering student at the University of Waterloo.
 
 I'm working at **Shopify** to work on Search and Index Serving. Before that, I worked at **Zynga** across infrastructure and game development, and at **Cineplex** on ad tech, data ingestion, and data visualization.
