@@ -2,7 +2,7 @@
 
 I'm a 3A Software Engineering student at the University of Waterloo.
 
-I'm working at **Shopify** to work on Search and Index Serving. Before that, I worked at **Zynga** across infrastructure and game development, and at **Cineplex** on ad tech, data ingestion, and data visualization.
+I'm working at **Shopify** on low latency Search Infrastructure. Before that, I worked at **Zynga** across infrastructure and game development, and at **Cineplex** on ad tech, data ingestion, and data visualization.
 
 I like working on problems where the best solution isn't obvious, especially in **C++ systems**. I enjoy digging into how things work, thinking through the tradeoffs, and finding better ways to design, structure, and optimize them.
 
@@ -20,7 +20,7 @@ A multithreaded C++ simulation and optimization engine I built to help answer co
 
 **Languages:** C++, Python, C#, SQL, Java
 
-**Areas:** Systems programming, performance optimization, compilers, search, data structures and algorithms, distributed systems
+**Areas:** Systems programming, performance optimization, compilers, search, indexing, data structures and algorithms, distributed systems
 
 ## Outside of software
 
